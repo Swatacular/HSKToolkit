@@ -1,18 +1,53 @@
 {
 	"incitems" : [
 	{
-		"abr": "rain",
-		"price": 350,
+		"abr": "clearweather",
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "aurora",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "tradercaravan",
+		"price": 275,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "maninblack",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ambrosiasprout",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "travelergroup",
+		"price": 80,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitorgroup",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -22,14 +57,29 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "genderswap",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "visitcolony",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 6
+	"total": 16
 }
