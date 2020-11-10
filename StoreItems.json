@@ -158,7 +158,7 @@
 	},
 	{
 		"abr": "14.5mmkpvmgcrate",
-		"price": -10,
+		"price": 10000,
 		"category": "Weapon Crate",
 		"defname": "KPV_Crate"
 	},
@@ -428,7 +428,7 @@
 	},
 	{
 		"abr": "7.62x51mmm240bmgcrate",
-		"price": -10,
+		"price": 7500,
 		"category": "Weapon Crate",
 		"defname": "M240B_Crate"
 	},
@@ -524,19 +524,19 @@
 	},
 	{
 		"abr": "9x19mmparacartridge(ap)",
-		"price": -10,
+		"price": 1,
 		"category": "9x19mm Parabellum",
 		"defname": "Ammo_9x19mmPara_AP"
 	},
 	{
 		"abr": "9x19mmparacartridge(fmj)",
-		"price": -10,
+		"price": 1,
 		"category": "9x19mm Parabellum",
 		"defname": "Ammo_9x19mmPara_FMJ"
 	},
 	{
 		"abr": "9x19mmparacartridge(hp)",
-		"price": -10,
+		"price": 1,
 		"category": "9x19mm Parabellum",
 		"defname": "Ammo_9x19mmPara_HP"
 	},
@@ -596,7 +596,7 @@
 	},
 	{
 		"abr": "advancedcomponent",
-		"price": -10,
+		"price": 160,
 		"category": "Parts and Mechanisms",
 		"defname": "ComponentAdvanced"
 	},
@@ -614,13 +614,13 @@
 	},
 	{
 		"abr": "advancedmechanism",
-		"price": -10,
+		"price": 660,
 		"category": "Parts and Mechanisms",
 		"defname": "AdvMechanism"
 	},
 	{
 		"abr": "advancedmedicine",
-		"price": -10,
+		"price": 200,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -698,7 +698,7 @@
 	},
 	{
 		"abr": "ak-47",
-		"price": -10,
+		"price": 2400,
 		"category": "Rifles",
 		"defname": "Gun_AK47Gun"
 	},
@@ -770,7 +770,7 @@
 	},
 	{
 		"abr": "aluminiumalloy",
-		"price": -10,
+		"price": 7,
 		"category": "High Conductivity",
 		"defname": "AluminiumBar"
 	},
@@ -842,7 +842,7 @@
 	},
 	{
 		"abr": "animalbed",
-		"price": -10,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "AnimalBed"
 	},
@@ -872,7 +872,7 @@
 	},
 	{
 		"abr": "antibiotics",
-		"price": -10,
+		"price": 25,
 		"category": "Drugs",
 		"defname": "MedicalDrink"
 	},
@@ -902,7 +902,7 @@
 	},
 	{
 		"abr": "appleseeds",
-		"price": -10,
+		"price": 12,
 		"category": "Seeds",
 		"defname": "SeedAppletree"
 	},
@@ -1082,13 +1082,13 @@
 	},
 	{
 		"abr": "artificialnose",
-		"price": -10,
+		"price": 500,
 		"category": "Simple Prostheses",
 		"defname": "ArtificialNose"
 	},
 	{
 		"abr": "artificialpelvis",
-		"price": -10,
+		"price": 500,
 		"category": "Simple Prostheses",
 		"defname": "ArtificialPelvis"
 	},
@@ -1268,7 +1268,7 @@
 	},
 	{
 		"abr": "banana",
-		"price": -10,
+		"price": 10,
 		"category": "Fruits",
 		"defname": "Rawbanana"
 	},
@@ -1280,7 +1280,7 @@
 	},
 	{
 		"abr": "bandagekit",
-		"price": -10,
+		"price": 8,
 		"category": "Medicine",
 		"defname": "Bandagekit"
 	},
@@ -1328,7 +1328,7 @@
 	},
 	{
 		"abr": "basaltblocks",
-		"price": -10,
+		"price": 3,
 		"category": "Stone Blocks",
 		"defname": "ZF_BlocksBasalt"
 	},
@@ -1418,13 +1418,13 @@
 	},
 	{
 		"abr": "beanseeds",
-		"price": -10,
+		"price": 8,
 		"category": "Seeds",
 		"defname": "Seedbean"
 	},
 	{
 		"abr": "beer",
-		"price": -10,
+		"price": 20,
 		"category": "Drugs",
 		"defname": "Beer"
 	},
@@ -1472,7 +1472,7 @@
 	},
 	{
 		"abr": "berettacx4",
-		"price": -10,
+		"price": 1500,
 		"category": "Rifles",
 		"defname": "RF_Gun_CXfour"
 	},
@@ -1520,7 +1520,7 @@
 	},
 	{
 		"abr": "bibapron",
-		"price": -10,
+		"price": 375,
 		"category": "Vests",
 		"defname": "Apparello_Smithaprontosaurus"
 	},
@@ -1658,7 +1658,7 @@
 	},
 	{
 		"abr": "birdleather",
-		"price": -10,
+		"price": 2,
 		"category": "Leathers",
 		"defname": "Leather_Bird"
 	},
@@ -1796,7 +1796,7 @@
 	},
 	{
 		"abr": "brainwash",
-		"price": -10,
+		"price": 1833,
 		"category": "Mind",
 		"defname": "ANN_Brainwash"
 	},
@@ -1832,13 +1832,13 @@
 	},
 	{
 		"abr": "bronzealloy",
-		"price": -10,
+		"price": 5,
 		"category": "Solid",
 		"defname": "Bronze"
 	},
 	{
 		"abr": "broom",
-		"price": -10,
+		"price": 300,
 		"category": "Basic tools",
 		"defname": "TFJ_Tool_Broom"
 	},
@@ -1946,7 +1946,7 @@
 	},
 	{
 		"abr": "cannedrawmeat",
-		"price": -10,
+		"price": 6,
 		"category": "Meat",
 		"defname": "MetalCannedMeat_raw"
 	},
@@ -1988,7 +1988,7 @@
 	},
 	{
 		"abr": "carbonfiberalloy",
-		"price": -10,
+		"price": 225,
 		"category": "Construction",
 		"defname": "CarbonAlloy"
 	},
@@ -2018,7 +2018,7 @@
 	},
 	{
 		"abr": "carrotseeds",
-		"price": -10,
+		"price": 12,
 		"category": "Seeds",
 		"defname": "SeedCarrot"
 	},
@@ -2132,7 +2132,7 @@
 	},
 	{
 		"abr": "cheeseburger",
-		"price": -10,
+		"price": 65,
 		"category": "Meals",
 		"defname": "CheeseBurger"
 	},
@@ -2162,7 +2162,7 @@
 	},
 	{
 		"abr": "chemfuel",
-		"price": -10,
+		"price": 10,
 		"category": "Fuel",
 		"defname": "Chemfuel"
 	},
@@ -2264,7 +2264,7 @@
 	},
 	{
 		"abr": "chocolate",
-		"price": -10,
+		"price": 7,
 		"category": "Sweets",
 		"defname": "Chocolate"
 	},
@@ -2336,7 +2336,7 @@
 	},
 	{
 		"abr": "cleanerbasestation",
-		"price": -10,
+		"price": 5250,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner"
 	},
@@ -2444,7 +2444,7 @@
 	},
 	{
 		"abr": "cocoaseeds",
-		"price": -10,
+		"price": 15,
 		"category": "Seeds",
 		"defname": "Seedcocoa"
 	},
@@ -2480,7 +2480,7 @@
 	},
 	{
 		"abr": "coffeeseeds",
-		"price": -10,
+		"price": 15,
 		"category": "Seeds",
 		"defname": "SeedCoffee"
 	},
@@ -2504,7 +2504,7 @@
 	},
 	{
 		"abr": "coltm1911",
-		"price": -10,
+		"price": 300,
 		"category": "Pistols",
 		"defname": "Gun_Revolver"
 	},
@@ -2576,7 +2576,7 @@
 	},
 	{
 		"abr": "component",
-		"price": -10,
+		"price": 60,
 		"category": "Parts and Mechanisms",
 		"defname": "ComponentIndustrial"
 	},
@@ -2594,7 +2594,7 @@
 	},
 	{
 		"abr": "compoundpaste",
-		"price": -10,
+		"price": 8,
 		"category": "Component",
 		"defname": "Compaste"
 	},
@@ -2612,7 +2612,7 @@
 	},
 	{
 		"abr": "concrete",
-		"price": -10,
+		"price": 10,
 		"category": "Construction",
 		"defname": "ConcreteResource"
 	},
@@ -2630,7 +2630,7 @@
 	},
 	{
 		"abr": "cookapron",
-		"price": -10,
+		"price": 400,
 		"category": "Vests",
 		"defname": "Apparello_Cookaprontosaurus"
 	},
@@ -2654,7 +2654,7 @@
 	},
 	{
 		"abr": "copperalloy",
-		"price": -10,
+		"price": 5,
 		"category": "High Conductivity",
 		"defname": "CopperBar"
 	},
@@ -2672,7 +2672,7 @@
 	},
 	{
 		"abr": "cornseeds",
-		"price": -10,
+		"price": 33,
 		"category": "Seeds",
 		"defname": "Seed_Corn"
 	},
@@ -2702,7 +2702,7 @@
 	},
 	{
 		"abr": "cottonseeds",
-		"price": -10,
+		"price": 19,
 		"category": "Seeds",
 		"defname": "Seed_Cotton"
 	},
@@ -3020,7 +3020,7 @@
 	},
 	{
 		"abr": "dagger",
-		"price": -10,
+		"price": 200,
 		"category": "Sharp",
 		"defname": "MeleeWeapon_Dagger"
 	},
@@ -3128,7 +3128,7 @@
 	},
 	{
 		"abr": "devilstrandseeds",
-		"price": -10,
+		"price": 33,
 		"category": "Seeds",
 		"defname": "Seed_Devilstrand"
 	},
@@ -3392,7 +3392,7 @@
 	},
 	{
 		"abr": "electricbaton",
-		"price": -10,
+		"price": 10000,
 		"category": "Special",
 		"defname": "MeleeWeapon_ElectricBaton"
 	},
@@ -3422,7 +3422,7 @@
 	},
 	{
 		"abr": "electroniccomponents",
-		"price": -10,
+		"price": 400,
 		"category": "Electronics",
 		"defname": "ElectronicComponents"
 	},
@@ -3656,7 +3656,7 @@
 	},
 	{
 		"abr": "feenixdragonskin",
-		"price": -10,
+		"price": 18,
 		"category": "Leathers",
 		"defname": "Leather_FireDragonskin"
 	},
@@ -3710,7 +3710,7 @@
 	},
 	{
 		"abr": "fertilizer",
-		"price": -10,
+		"price": 20,
 		"category": "Raw Resources",
 		"defname": "Fertilizer"
 	},
@@ -3722,7 +3722,7 @@
 	},
 	{
 		"abr": "finemeal",
-		"price": -10,
+		"price": 50,
 		"category": "Meals",
 		"defname": "MealFine"
 	},
@@ -3836,7 +3836,7 @@
 	},
 	{
 		"abr": "flaxseeds",
-		"price": -10,
+		"price": 7,
 		"category": "Seeds",
 		"defname": "SeedFlax"
 	},
@@ -3932,7 +3932,7 @@
 	},
 	{
 		"abr": "fsx",
-		"price": -10,
+		"price": 15,
 		"category": "Explosives",
 		"defname": "FSX"
 	},
@@ -4100,13 +4100,13 @@
 	},
 	{
 		"abr": "glasseye",
-		"price": -10,
+		"price": 500,
 		"category": "Simple Prostheses",
 		"defname": "GlassEye"
 	},
 	{
 		"abr": "glassframe",
-		"price": -10,
+		"price": 8,
 		"category": "Glassy",
 		"defname": "Glass"
 	},
@@ -4190,7 +4190,7 @@
 	},
 	{
 		"abr": "goldalloy",
-		"price": -10,
+		"price": 83,
 		"category": "High Conductivity",
 		"defname": "GoldBar"
 	},
@@ -4466,7 +4466,7 @@
 	},
 	{
 		"abr": "hammer",
-		"price": -10,
+		"price": 300,
 		"category": "Basic tools",
 		"defname": "TFJ_Tool_Building_Hammer"
 	},
@@ -4508,7 +4508,7 @@
 	},
 	{
 		"abr": "handaxe",
-		"price": -10,
+		"price": 300,
 		"category": "Basic tools",
 		"defname": "TFJ_Tool_Woodcutting_Handaxe"
 	},
@@ -4532,7 +4532,7 @@
 	},
 	{
 		"abr": "haulerbasestation",
-		"price": -10,
+		"price": 8233,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Hauler"
 	},
@@ -4592,13 +4592,13 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": -10,
+		"price": 2000,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
 	{
 		"abr": "healrootseeds",
-		"price": -10,
+		"price": 24,
 		"category": "Seeds",
 		"defname": "Seed_Healroot"
 	},
@@ -4682,7 +4682,7 @@
 	},
 	{
 		"abr": "heveaseeds",
-		"price": -10,
+		"price": 12,
 		"category": "Seeds",
 		"defname": "SeedHeveaTree"
 	},
@@ -4736,13 +4736,13 @@
 	},
 	{
 		"abr": "hkxm8militaryrifle",
-		"price": -10,
+		"price": 2400,
 		"category": "Rifles",
 		"defname": "RF_Gun_XMeight"
 	},
 	{
 		"abr": "hoe",
-		"price": -10,
+		"price": 300,
 		"category": "Basic tools",
 		"defname": "TFJ_Tool_Hoe"
 	},
@@ -4796,7 +4796,7 @@
 	},
 	{
 		"abr": "hopsseeds",
-		"price": -10,
+		"price": 14,
 		"category": "Seeds",
 		"defname": "Seed_Hops"
 	},
@@ -5048,7 +5048,7 @@
 	},
 	{
 		"abr": "integratedcircuits",
-		"price": -10,
+		"price": 900,
 		"category": "Electronics",
 		"defname": "Electronics"
 	},
@@ -5120,7 +5120,7 @@
 	},
 	{
 		"abr": "jeans",
-		"price": -10,
+		"price": 350,
 		"category": "Urban Pants",
 		"defname": "Apparello_Jeans"
 	},
@@ -5174,7 +5174,7 @@
 	},
 	{
 		"abr": "katana",
-		"price": -10,
+		"price": 400,
 		"category": "Sharp",
 		"defname": "MeleeWeapon_Katana"
 	},
@@ -5240,7 +5240,7 @@
 	},
 	{
 		"abr": "kirinfurpelt",
-		"price": -10,
+		"price": 18,
 		"category": "Leathers",
 		"defname": "Leather_KirinHide"
 	},
@@ -5384,7 +5384,7 @@
 	},
 	{
 		"abr": "lavishmeal",
-		"price": -10,
+		"price": 100,
 		"category": "Meals",
 		"defname": "MealLavish"
 	},
@@ -5402,13 +5402,13 @@
 	},
 	{
 		"abr": "leathergrips",
-		"price": -10,
+		"price": 300,
 		"category": "Gloves",
 		"defname": "Apparello_Motorglove"
 	},
 	{
 		"abr": "leatherpants",
-		"price": -10,
+		"price": 350,
 		"category": "Urban Pants",
 		"defname": "Apparello_Lederhose"
 	},
@@ -5426,7 +5426,7 @@
 	},
 	{
 		"abr": "lee-enfield",
-		"price": -10,
+		"price": 1250,
 		"category": "Rifles",
 		"defname": "Gun_BoltActionRifle"
 	},
@@ -5570,7 +5570,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": -10,
+		"price": 117,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -5606,7 +5606,7 @@
 	},
 	{
 		"abr": "m16rifle",
-		"price": -10,
+		"price": 2400,
 		"category": "Rifles",
 		"defname": "Gun_AssaultRifle"
 	},
@@ -5636,7 +5636,7 @@
 	},
 	{
 		"abr": "m42ascoperifle",
-		"price": -10,
+		"price": 2900,
 		"category": "Sniper Rifles",
 		"defname": "Gun_M42A_USCM"
 	},
@@ -5648,7 +5648,7 @@
 	},
 	{
 		"abr": "m4a1carbine",
-		"price": 2200,
+		"price": -10,
 		"category": "Rifles",
 		"defname": "Gun_M4A1Gun"
 	},
@@ -5852,7 +5852,7 @@
 	},
 	{
 		"abr": "mechanism",
-		"price": -10,
+		"price": 330,
 		"category": "Parts and Mechanisms",
 		"defname": "Mechanism"
 	},
@@ -5864,7 +5864,7 @@
 	},
 	{
 		"abr": "medicine",
-		"price": -10,
+		"price": 50,
 		"category": "Medicine",
 		"defname": "MedicineIndustrial"
 	},
@@ -5882,7 +5882,7 @@
 	},
 	{
 		"abr": "medievalshield",
-		"price": -10,
+		"price": 200,
 		"category": "Shields",
 		"defname": "MedievalShield"
 	},
@@ -5936,7 +5936,7 @@
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": -10,
+		"price": 3333,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
@@ -5972,7 +5972,7 @@
 	},
 	{
 		"abr": "mendingkit",
-		"price": -10,
+		"price": 50,
 		"category": "Manufactured",
 		"defname": "MendingKit"
 	},
@@ -6014,7 +6014,7 @@
 	},
 	{
 		"abr": "microchipintegratedcircuits",
-		"price": -10,
+		"price": 1600,
 		"category": "Electronics",
 		"defname": "Microchips"
 	},
@@ -6098,7 +6098,7 @@
 	},
 	{
 		"abr": "mindclearer",
-		"price": -10,
+		"price": 1833,
 		"category": "Mind",
 		"defname": "ANN_MindClearer"
 	},
@@ -6122,7 +6122,7 @@
 	},
 	{
 		"abr": "mininghelmet",
-		"price": -10,
+		"price": 350,
 		"category": "Special Headdress",
 		"defname": "MiningHelmet"
 	},
@@ -6182,7 +6182,7 @@
 	},
 	{
 		"abr": "monkeywrench",
-		"price": -10,
+		"price": 245,
 		"category": "Blunt",
 		"defname": "MeleeWeapon_Monkeywrench"
 	},
@@ -6314,7 +6314,7 @@
 	},
 	{
 		"abr": "neuroenhancer",
-		"price": -10,
+		"price": 11000,
 		"category": "Cybernetic Bionics",
 		"defname": "ANN_NeuroEnhancer"
 	},
@@ -6362,7 +6362,7 @@
 	},
 	{
 		"abr": "nickelalloy",
-		"price": -10,
+		"price": 25,
 		"category": "Rare",
 		"defname": "NickelBar"
 	},
@@ -6392,7 +6392,7 @@
 	},
 	{
 		"abr": "nightlingfurpelt",
-		"price": -10,
+		"price": 4,
 		"category": "Leathers",
 		"defname": "Leather_Nightling"
 	},
@@ -6464,13 +6464,13 @@
 	},
 	{
 		"abr": "nutrientpastemeal",
-		"price": -10,
+		"price": 10,
 		"category": "Meals",
 		"defname": "MealNutrientPaste"
 	},
 	{
 		"abr": "oakseeds",
-		"price": -10,
+		"price": 5,
 		"category": "Seeds",
 		"defname": "Seed_TreeOak"
 	},
@@ -6494,7 +6494,7 @@
 	},
 	{
 		"abr": "onionseeds",
-		"price": -10,
+		"price": 20,
 		"category": "Seeds",
 		"defname": "Seedonion"
 	},
@@ -6506,7 +6506,7 @@
 	},
 	{
 		"abr": "orangeseeds",
-		"price": -10,
+		"price": 13,
 		"category": "Seeds",
 		"defname": "SeedorangeTree"
 	},
@@ -6584,7 +6584,7 @@
 	},
 	{
 		"abr": "packagedsurvivalmeal",
-		"price": -10,
+		"price": 70,
 		"category": "Meals",
 		"defname": "MealSurvivalPack"
 	},
@@ -6680,7 +6680,7 @@
 	},
 	{
 		"abr": "parka",
-		"price": -10,
+		"price": 425,
 		"category": "Upper Overdress",
 		"defname": "Apparel_Parka"
 	},
@@ -6692,7 +6692,7 @@
 	},
 	{
 		"abr": "passiongiver",
-		"price": -10,
+		"price": 3000,
 		"category": "Mind",
 		"defname": "ANN_PassionGiver"
 	},
@@ -6770,7 +6770,7 @@
 	},
 	{
 		"abr": "penoxycyline",
-		"price": -10,
+		"price": 30,
 		"category": "Drugs",
 		"defname": "Penoxycyline"
 	},
@@ -6806,7 +6806,7 @@
 	},
 	{
 		"abr": "pickaxe",
-		"price": -10,
+		"price": 300,
 		"category": "Basic tools",
 		"defname": "TFJ_Tool_Mining_Pickaxe"
 	},
@@ -6938,13 +6938,13 @@
 	},
 	{
 		"abr": "plastic",
-		"price": -10,
+		"price": 15,
 		"category": "Chemical",
 		"defname": "Plastic"
 	},
 	{
 		"abr": "platearmor",
-		"price": -10,
+		"price": 500,
 		"category": "Heavy Armor",
 		"defname": "Apparel_PlateArmor"
 	},
@@ -6974,7 +6974,7 @@
 	},
 	{
 		"abr": "pobeditealloy",
-		"price": -10,
+		"price": 55,
 		"category": "Ultrasolid",
 		"defname": "PobediteAlloy"
 	},
@@ -7040,7 +7040,7 @@
 	},
 	{
 		"abr": "poplarseeds",
-		"price": -10,
+		"price": 4,
 		"category": "Seeds",
 		"defname": "Seed_TreePoplar"
 	},
@@ -7058,7 +7058,7 @@
 	},
 	{
 		"abr": "potatoseeds",
-		"price": -10,
+		"price": 20,
 		"category": "Seeds",
 		"defname": "Seed_Potato"
 	},
@@ -7148,7 +7148,7 @@
 	},
 	{
 		"abr": "primitivecomponent",
-		"price": -10,
+		"price": 10,
 		"category": "Parts and Mechanisms",
 		"defname": "ComponentMedieval"
 	},
@@ -7724,7 +7724,7 @@
 	},
 	{
 		"abr": "ratkinsummerdress",
-		"price": -10,
+		"price": 250,
 		"category": "Ratkin apparel",
 		"defname": "RK_SummerDress"
 	},
@@ -7742,7 +7742,7 @@
 	},
 	{
 		"abr": "ratkinwinterrobe",
-		"price": -10,
+		"price": 340,
 		"category": "Ratkin apparel",
 		"defname": "RK_WinterRobe"
 	},
@@ -7766,7 +7766,7 @@
 	},
 	{
 		"abr": "ratkinworkerwear",
-		"price": -10,
+		"price": 325,
 		"category": "Ratkin apparel",
 		"defname": "RK_WorkerWear"
 	},
@@ -7844,7 +7844,7 @@
 	},
 	{
 		"abr": "reconditioner",
-		"price": -10,
+		"price": 3000,
 		"category": "Mind",
 		"defname": "ANN_Reconditioner"
 	},
@@ -7934,7 +7934,7 @@
 	},
 	{
 		"abr": "reinforcedconcrete",
-		"price": -10,
+		"price": 27,
 		"category": "Construction",
 		"defname": "ReinforcedConcrete"
 	},
@@ -8186,7 +8186,7 @@
 	},
 	{
 		"abr": "rubber",
-		"price": -10,
+		"price": 18,
 		"category": "Chemical",
 		"defname": "Rubber"
 	},
@@ -8300,7 +8300,7 @@
 	},
 	{
 		"abr": "salt",
-		"price": -10,
+		"price": 2,
 		"category": "Raw Resources",
 		"defname": "Salt"
 	},
@@ -8312,7 +8312,7 @@
 	},
 	{
 		"abr": "sand",
-		"price": -10,
+		"price": 1,
 		"category": "Raw Resources",
 		"defname": "SandResource"
 	},
@@ -8420,7 +8420,7 @@
 	},
 	{
 		"abr": "scrubs",
-		"price": -10,
+		"price": 500,
 		"category": "Bodysuit",
 		"defname": "Apparel_Scrubs"
 	},
@@ -8456,7 +8456,7 @@
 	},
 	{
 		"abr": "sendustalloy",
-		"price": -10,
+		"price": 5,
 		"category": "Solid",
 		"defname": "FerrosiliconAlloy"
 	},
@@ -8570,7 +8570,7 @@
 	},
 	{
 		"abr": "shoes",
-		"price": -10,
+		"price": 200,
 		"category": "Boots",
 		"defname": "Apparello_Shoes"
 	},
@@ -8618,7 +8618,7 @@
 	},
 	{
 		"abr": "sickle",
-		"price": -10,
+		"price": 300,
 		"category": "Basic tools",
 		"defname": "TFJ_Tool_Sickle"
 	},
@@ -8660,7 +8660,7 @@
 	},
 	{
 		"abr": "silverore",
-		"price": -10,
+		"price": 5,
 		"category": "Precious",
 		"defname": "Silver"
 	},
@@ -8702,25 +8702,25 @@
 	},
 	{
 		"abr": "simpleprostheticarm",
-		"price": -10,
+		"price": 1000,
 		"category": "Simple Prostheses",
 		"defname": "SimpleProstheticArm"
 	},
 	{
 		"abr": "simpleprostheticfoot",
-		"price": -10,
+		"price": 1000,
 		"category": "Simple Prostheses",
 		"defname": "SimpleProstheticFoot"
 	},
 	{
 		"abr": "simpleprosthetichand",
-		"price": -10,
+		"price": 1000,
 		"category": "Simple Prostheses",
 		"defname": "SimpleProstheticHand"
 	},
 	{
 		"abr": "simpleprostheticleg",
-		"price": -10,
+		"price": 1000,
 		"category": "Simple Prostheses",
 		"defname": "SimpleProstheticLeg"
 	},
@@ -8738,73 +8738,73 @@
 	},
 	{
 		"abr": "skilltrainer(animals)",
-		"price": -10,
+		"price": 4000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "skilltrainer(artistic)",
-		"price": -10,
+		"price": 4000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "skilltrainer(construction)",
-		"price": -10,
+		"price": 4000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "skilltrainer(cooking)",
-		"price": -10,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "skilltrainer(crafting)",
-		"price": -10,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "skilltrainer(intellectual)",
-		"price": -10,
+		"price": 3000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "skilltrainer(medical)",
-		"price": -10,
+		"price": 4000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "skilltrainer(melee)",
-		"price": -10,
+		"price": 3000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "skilltrainer(mining)",
-		"price": -10,
+		"price": 4000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "skilltrainer(plants)",
-		"price": -10,
+		"price": 5000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "skilltrainer(shooting)",
-		"price": -10,
+		"price": 3000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "skilltrainer(social)",
-		"price": -10,
+		"price": 2000,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
 	},
@@ -9062,7 +9062,7 @@
 	},
 	{
 		"abr": "spiketrap",
-		"price": -10,
+		"price": 250,
 		"category": "Security",
 		"defname": "TrapSpike"
 	},
@@ -9170,7 +9170,7 @@
 	},
 	{
 		"abr": "srs99amsniperrifle",
-		"price": -10,
+		"price": 6500,
 		"category": "Sniper Rifles",
 		"defname": "Gun_TAMSR"
 	},
@@ -9182,7 +9182,7 @@
 	},
 	{
 		"abr": "stablehandtrousers",
-		"price": -10,
+		"price": 350,
 		"category": "Urban Pants",
 		"defname": "Apparello_Suspender"
 	},
@@ -9266,7 +9266,7 @@
 	},
 	{
 		"abr": "steinalloy",
-		"price": -10,
+		"price": 15,
 		"category": "Ultrasolid",
 		"defname": "SteelBar"
 	},
@@ -9344,7 +9344,7 @@
 	},
 	{
 		"abr": "strawberryseeds",
-		"price": -10,
+		"price": 42,
 		"category": "Seeds",
 		"defname": "Seed_Strawberry"
 	},
@@ -9356,7 +9356,7 @@
 	},
 	{
 		"abr": "sugar",
-		"price": -10,
+		"price": 5,
 		"category": "Cooking Supplies",
 		"defname": "Sugar"
 	},
@@ -9416,7 +9416,7 @@
 	},
 	{
 		"abr": "surgeon'sapron",
-		"price": -10,
+		"price": 550,
 		"category": "Vests",
 		"defname": "Apparello_MedicalApron"
 	},
@@ -9494,7 +9494,7 @@
 	},
 	{
 		"abr": "syntheticfibers",
-		"price": -10,
+		"price": 20,
 		"category": "Chemical",
 		"defname": "SyntheticFibers"
 	},
@@ -9800,7 +9800,7 @@
 	},
 	{
 		"abr": "tinalloy",
-		"price": -10,
+		"price": 3,
 		"category": "High Conductivity",
 		"defname": "TinBar"
 	},
@@ -9818,7 +9818,7 @@
 	},
 	{
 		"abr": "titaniumalloy",
-		"price": -10,
+		"price": 75,
 		"category": "Rare",
 		"defname": "Titanium"
 	},
@@ -9980,7 +9980,7 @@
 	},
 	{
 		"abr": "ultimaratiohecateii",
-		"price": -10,
+		"price": 6500,
 		"category": "Sniper Rifles",
 		"defname": "RF_Gun_HecateII"
 	},
@@ -10016,7 +10016,7 @@
 	},
 	{
 		"abr": "uzi",
-		"price": -10,
+		"price": 900,
 		"category": "SMGs",
 		"defname": "Gun_MachinePistol"
 	},
@@ -10196,7 +10196,7 @@
 	},
 	{
 		"abr": "wheatseeds",
-		"price": -10,
+		"price": 5,
 		"category": "Seeds",
 		"defname": "Seedwheat"
 	},
@@ -10262,7 +10262,7 @@
 	},
 	{
 		"abr": "wire",
-		"price": -10,
+		"price": 2,
 		"category": "Parts and Mechanisms",
 		"defname": "Wire"
 	},
