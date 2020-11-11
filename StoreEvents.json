@@ -281,18 +281,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "surgery",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "passionshuffle",
 		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
-		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -315,11 +305,6 @@
 		"price": 5000,
 		"karmatype": "Good"
 	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
-	}
 	],
-	"total": 52
+	"total": 49
 }
