@@ -255,65 +255,6 @@
 		"price": 5000,
 		"karmatype": "Good"
 	},
-		"abr": "asari",
-		"price": 10000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "humanandroid",
-		"price": 10000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "terminatorprototypet800",
-		"price": 150000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "terminatorprototypet-x",
-		"price": 210000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "terminatort-hybrid",
-		"price": 80000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "ratkin",
-		"price": 3300,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "orassan",
-		"price": 3300,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "nova",
-		"price": 4500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "norbal",
-		"price": 3800,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "droid",
-		"price": 8000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "dova",
-		"price": 4000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "battledroid",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
 	{
 		"abr": "backpack",
 		"price": 1,
