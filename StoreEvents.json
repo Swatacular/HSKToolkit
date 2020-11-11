@@ -6,8 +6,73 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "rain",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drythunderstorm",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 350,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fog",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "eclipse",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "aurora",
 		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "resourcepodcrash",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "transportpodcrash",
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -16,8 +81,23 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "orbitaltraderarrival",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "meteor",
+		"price": 150,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "maninblack",
 		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "psychicsoothe",
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -26,8 +106,28 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "herdmigration",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "farmanimals",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "rarethrumbos",
 		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "shipchunkdrop",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -38,6 +138,21 @@
 	{
 		"abr": "visitorgroup",
 		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "skillincrease",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "party",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -57,12 +172,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -76,10 +191,134 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+		"abr": "pawn asari",
+		"price": 10000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn humanandroid",
+		"price": 10000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn terminatorprototypet800",
+		"price": 150000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn terminatorprototypet-x",
+		"price": 210000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn terminatort-hybrid",
+		"price": 80000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn ratkin",
+		"price": 3300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn orassan",
+		"price": 3300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn nova",
+		"price": 4500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn norbal",
+		"price": 3800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn droid",
+		"price": 8000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn dova",
+		"price": 4000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn battledroid",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 16
+	"total": 52
 }
