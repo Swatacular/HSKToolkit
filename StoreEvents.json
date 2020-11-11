@@ -1,5 +1,64 @@
 {
 	"incitems" : [
+		"abr": "pawn asari",
+		"price": 10000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn humanandroid",
+		"price": 10000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn terminatorprototypet800",
+		"price": 150000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn terminatorprototypet-x",
+		"price": 210000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn terminatort-hybrid",
+		"price": 80000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn ratkin",
+		"price": 3300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn orassan",
+		"price": 3300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn nova",
+		"price": 4500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn norbal",
+		"price": 3800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn droid",
+		"price": 8000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn dova",
+		"price": 4000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pawn battledroid",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
 	{
 		"abr": "clearweather",
 		"price": 400,
