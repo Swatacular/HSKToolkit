@@ -255,62 +255,62 @@
 		"price": 5000,
 		"karmatype": "Good"
 	},
-		"abr": "pawn asari",
+		"abr": "asari",
 		"price": 10000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn humanandroid",
+		"abr": "humanandroid",
 		"price": 10000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn terminatorprototypet800",
+		"abr": "terminatorprototypet800",
 		"price": 150000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn terminatorprototypet-x",
+		"abr": "terminatorprototypet-x",
 		"price": 210000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn terminatort-hybrid",
+		"abr": "terminatort-hybrid",
 		"price": 80000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn ratkin",
+		"abr": "ratkin",
 		"price": 3300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn orassan",
+		"abr": "orassan",
 		"price": 3300,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn nova",
+		"abr": "nova",
 		"price": 4500,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn norbal",
+		"abr": "norbal",
 		"price": 3800,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn droid",
+		"abr": "droid",
 		"price": 8000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn dova",
+		"abr": "dova",
 		"price": 4000,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn battledroid",
+		"abr": "battledroid",
 		"price": 3000,
 		"karmatype": "Neutral"
 	},
